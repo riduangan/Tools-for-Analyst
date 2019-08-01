@@ -101,3 +101,10 @@ Dividing into sections, based on your objectives
 - ProcDot – A graphical malware analysis toolkit.
 - Recomposer – A helper script for safely uploading binaries to sandbox sites.
 - Sand droid – Automatic and complete Android application analysis system.
+
+My setup for malware analysis is very simple. As a base system I use Linux (Debian) with Wireshark (to sniff the traffic from the guest if needed). Then I use Windows on VirtualBox. On Windows I have all my tools installed (PE-bear, debuggers, PIN tools, SysInternals Tools, Fiddler, etc). I don’t usually use hardened VMs, just a basic setup.
+I start from viewing a sample in PE-bear, then I am unpacking it (with PE-sieve, or manually if needed). Once I have the sample unpacked, I view it again in PE-bear, to get a general overview. If it is not obfuscated, I just open it in IDA and start analyzing statically. If the sample is complex or obfuscated, I start from tracing it by a PIN tracer. I usually use TinyTracer (https://github.com/hasherezade/tiny_tracer first), then eventually some more complex traces. They give me tags that I am loading to IDA to better understand the obfuscated parts.
+Depending on a sample, I can switch from static to dynamic analysis multiple times. Sometimes I may start from a behavioral analysis, observing API calls with ProcMon, observing eventual traffic with Fiddler or Wireshark.
+I do several iterations, renaming functions in IDA, adding comments.
+When the sample is defending itself against analysis, I find those branches by PIN tracers, and patch them to make the malware “blind”. Sometimes I import functions from malware to experiment with them (with libPeConv).
+I hope it answers your question
