@@ -38,7 +38,7 @@ Dividing into sections, based on your objectives.
 - FindAES –Find AES encryption keys in memory
 - Volatility — Advanced memory forensics framework
 - DumpIt - tool to dump the memory of said host
-- Belkasoft RAM Capturer - As the name suggest, to capture ram in .mem format.
+- Belkasoft RAM Capturer - As the name suggest, to capture ram in .mem format. https://github.com/rasinfosec/memory_collector/tree/master/include/x86
 
 
 
