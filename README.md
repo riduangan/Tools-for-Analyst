@@ -118,18 +118,17 @@ Very critical step for analyst is to have sufficient data. Below are list of dat
 
 - Physical memory
 - Network connections, open TCP or UDP ports
-
-• NetBIOS
-• Currently logged on user / user accounts
-• Current executing processes and services
-• Scheduled jobs
-• Windows registry
-• Browser auto-completion data, passwords
-• Screen capture
-• Chat logs
-• Windows SAM files / NTUser.dat files
-• System logs
-• Installed applications and drives
-• Environment variables
-• Internet history
+- NetBIOS
+- Currently logged on user / user accounts
+- Current executing processes and services
+- Scheduled jobs
+- Windows registry
+- Browser auto-completion data, passwords
+- Screen capture
+- Chat logs
+- Windows SAM files / NTUser.dat files
+- System logs
+- Installed applications and drives
+- Environment variables
+- Internet history
 
