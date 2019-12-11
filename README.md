@@ -4,7 +4,8 @@ Jump bag tools for analyst
 - need link
 
 
-Dividing into sections, based on your objectives
+Dividing into sections, based on your objectives.
+
 
 # Imaging
 
@@ -36,6 +37,8 @@ Dividing into sections, based on your objectives
 - DAMM –Differential Analysis of Malware in Memory, built on Volatility
 - FindAES –Find AES encryption keys in memory
 - Volatility — Advanced memory forensics framework
+- DumpIt - tool to dump the memory of said host
+- Belkasoft RAM Capturer - As the name suggest, to capture ram in .mem format.
 
 
 
@@ -108,3 +111,24 @@ Depending on a sample, I can switch from static to dynamic analysis multiple tim
 I do several iterations, renaming functions in IDA, adding comments.
 When the sample is defending itself against analysis, I find those branches by PIN tracers, and patch them to make the malware “blind”. Sometimes I import functions from malware to experiment with them (with libPeConv).
 I hope it answers your question
+
+
+# Collecting Data
+Very critical step for analyst is to have sufficient data. Below are list of data should be considered to be collected during an incident. (situational - not all are necessary)
+
+• Physical memory
+• Network connections, open TCP or UDP ports
+• NetBIOS
+• Currently logged on user / user accounts
+• Current executing processes and services
+• Scheduled jobs
+• Windows registry
+• Browser auto-completion data, passwords
+• Screen capture
+• Chat logs
+• Windows SAM files / NTUser.dat files
+• System logs
+• Installed applications and drives
+• Environment variables
+• Internet history
+
