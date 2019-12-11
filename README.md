@@ -116,8 +116,9 @@ I hope it answers your question
 # Collecting Data
 Very critical step for analyst is to have sufficient data. Below are list of data should be considered to be collected during an incident. (situational - not all are necessary)
 
-• Physical memory
-• Network connections, open TCP or UDP ports
+- Physical memory
+- Network connections, open TCP or UDP ports
+
 • NetBIOS
 • Currently logged on user / user accounts
 • Current executing processes and services
