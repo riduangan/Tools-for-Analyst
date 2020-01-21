@@ -132,3 +132,15 @@ Very critical step for analyst is to have sufficient data. Below are list of dat
 - Environment variables
 - Internet history
 
+
+# Network Tools
+coming soon
+
+# Static Analyser
+coiming soon
+
+# Wireless Network Hacking Tools
+coming soon
+
+# Web Scanner
+Coming soon
