@@ -132,6 +132,12 @@ Very critical step for analyst is to have sufficient data. Below are list of dat
 - Environment variables
 - Internet history
 
+# Franework
+Coming soon
+
+
+# OSINT resources
+coming soon
 
 # Network Tools
 coming soon
