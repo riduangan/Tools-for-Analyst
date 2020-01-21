@@ -132,9 +132,13 @@ Very critical step for analyst is to have sufficient data. Below are list of dat
 - Environment variables
 - Internet history
 
+
+ Below are Offensive method, Its all for the "Analyst". There is no red, blue or purple.
 # Franework
 Coming soon
 
+# Hex Editor
+Coming soon
 
 # OSINT resources
 coming soon
