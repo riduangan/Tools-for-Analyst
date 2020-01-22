@@ -134,7 +134,7 @@ Very critical step for analyst is to have sufficient data. Below are list of dat
 
 
  Below are Offensive method, Its all for the "Analyst". There is no red, blue or purple.
-# Franework
+# Framework
 Coming soon
 
 # Hex Editor
@@ -150,7 +150,7 @@ coming soon
 coiming soon
 
 # Wireless Network Hacking Tools
-coming soon
+- https://www.aircrack-ng.org/ Set of tools for wireless network auditing
 
 # Web Scanner
 Coming soon
