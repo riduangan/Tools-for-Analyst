@@ -144,7 +144,9 @@ Coming soon
 coming soon
 
 # Network Tools
-coming soon
+- https://nmap.org/ Network scanner / discovery.
+- https://zmap.io/ Single packet network scanner. Able to scan whole IPV4 address space under 45 minutes.
+- https://github.com/rafael-santiago/pig Packet crafting tool.
 
 # Static Analyser
 coiming soon
