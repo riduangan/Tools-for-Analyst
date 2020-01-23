@@ -4,7 +4,7 @@ Jump bag tools for analyst
 - need link
 
 
-Dividing into sections, based on your objectives.
+Dividing into sections, based on your objectives. Currently need links 
 
 
 # Imaging
