@@ -153,8 +153,10 @@ coiming soon
 
 # Wireless Network Hacking Tools
 - https://www.aircrack-ng.org/ Set of tools for wireless network auditing
+coming soon
 
 # Web Scanner
+coming soon
 
 # Hashes
 - Mimikatz
@@ -165,4 +167,5 @@ coiming soon
 - PWDumpX
 - creddump
 - WCE (Windows Credential Editor)
+
 Coming soon
