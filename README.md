@@ -155,4 +155,14 @@ coiming soon
 - https://www.aircrack-ng.org/ Set of tools for wireless network auditing
 
 # Web Scanner
+
+# Hashes
+- Mimikatz
+- fgdump
+- gsecdump
+- Metasploit
+- AceHash
+- PWDumpX
+- creddump
+- WCE (Windows Credential Editor)
 Coming soon
