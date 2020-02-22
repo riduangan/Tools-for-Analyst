@@ -168,4 +168,11 @@ coming soon
 - creddump
 - WCE (Windows Credential Editor)
 
+# Dark Web Browser
+- TOR ( https://www.torproject.org/ )
+- I2P ( https://geti2p.net/en/ )
+- Subgraph OS ( https://subgraph.com/sgos/index.en.html )
+- TAILS ( https://tails.boum.org/ )
+- Whonix ( https://www.whonix.org/ )
+
 Coming soon
